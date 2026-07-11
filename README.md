@@ -1,13 +1,21 @@
 # Automation Lab
 
-Laboratório para estudos de automação, Inteligência Artificial e DevOps.  
+Platform for learning AI Automation, n8n and Platform Engineering.
 
+## Current Milestone
 
-## Roadmap
+✅ Milestone 01 - Infrastructure Foundation
 
-- [x] Sprint 1 - Docker Compose + PostgreSQL + n8n
-- [ ] Sprint 2 - Ollama
-- [ ] Sprint 3 - Qdrant
-- [ ] Sprint 4 - Agentes
-- [ ] Sprint 5 - Deploy
-- [ ] Sprint 6 - Kubernetes
+## Next Milestone
+
+🔄 Milestone 02 - AI Foundation
+
+## Technologies
+
+- Docker
+- Docker Compose
+- PostgreSQL
+- n8n
+- Ollama
+- Qdrant
+- Kubernetes
