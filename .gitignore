@@ -1,0 +1,11 @@
+.env
+
+postgres/data
+
+backups/*
+
+n8n/data
+
+*.log
+
+.DS_Store
